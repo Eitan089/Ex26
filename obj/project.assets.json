@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/eitan-av/.nuget/packages/": {}
+    "/home/eitan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eitan-av/Code/Ex26/Ex26.csproj",
+      "projectUniqueName": "/home/eitan/Code/Ex26/Ex26.csproj",
       "projectName": "Ex26",
-      "projectPath": "/home/eitan-av/Code/Ex26/Ex26.csproj",
-      "packagesPath": "/home/eitan-av/.nuget/packages/",
-      "outputPath": "/home/eitan-av/Code/Ex26/obj/",
+      "projectPath": "/home/eitan/Code/Ex26/Ex26.csproj",
+      "packagesPath": "/home/eitan/.nuget/packages/",
+      "outputPath": "/home/eitan/Code/Ex26/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/eitan-av/.nuget/NuGet/NuGet.Config"
+        "/home/eitan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -60,12 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.9, 9.0.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -74,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.112/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
