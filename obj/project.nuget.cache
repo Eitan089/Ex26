@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfaCJL6M9/M=",
+  "success": true,
+  "projectFilePath": "/home/eitan-av/Code/Ex26/Ex26.csproj",
+  "expectedPackageFiles": [
+    "/home/eitan-av/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
