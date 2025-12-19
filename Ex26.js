@@ -153,5 +153,8 @@ window.onload = function () {
   table.appendChild(newRow);
 
   CreateTableRows(tbl, 5);
+<<<<<<< HEAD
   //xxa
+=======
+>>>>>>> 535e8a334f67326d99a3b6ef9e5e2b0a74c167d4
 };
